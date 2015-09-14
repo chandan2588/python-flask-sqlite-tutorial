@@ -13,8 +13,8 @@ Python Flask example application Flaskr using sqlite
 5. 'printenv FLASKR_SETTINGS' to see the value
 
 6. Type python to init_db
-   >>>from flaskr import init_db
-   >>>init_db() 
+   -->from flaskr import init_db
+   -->init_db() 
 
 7. Run 'Python flaskr.py' from Terminal 
 
